@@ -1,0 +1,5 @@
+.DS_store
+
+webserver_django/media/files/
+
+webserver_django/db.sqlite3
